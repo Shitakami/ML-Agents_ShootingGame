@@ -1,0 +1,58 @@
+Base path: 'C:/Program Files/UnityVersions/2019.4.1f1/Editor/Data', plugins path 'C:/Program Files/UnityVersions/2019.4.1f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12081 outsize=1971 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12124 outsize=1823 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12124 outsize=1851 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12124 outsize=1853 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19771 outsize=3171 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=2922 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1489 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1431 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1851 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1998 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1394 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1590 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1427 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73605 outsize=5746 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=769 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=638 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1094 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1023 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=622 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=970 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1258 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1457 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1442 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1284 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74993 outsize=2787 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74993 outsize=32238 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4434 outsize=1590 ok=1
